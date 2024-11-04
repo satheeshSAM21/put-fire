@@ -3,11 +3,12 @@ import Logo from '../../images/logo.svg'
 import Name from '../../images/name.svg'
 import './style.css';
 
+
 const Header = () => {
   return (
     <div className="header-container">
       <div className="heder-left-col pl-[5px]">
-         <img src={Logo}/>
+         <img src={Logo} className="!h-[40px]"/>
          <img src={Name}/>
       </div>
       <div className="header-topic">
