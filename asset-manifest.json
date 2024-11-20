@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/satheeshSAM21/put-fire.git/static/css/main.c644bd76.css",
+    "main.js": "/satheeshSAM21/put-fire.git/static/js/main.eccde86f.js",
+    "static/js/453.afc89e57.chunk.js": "/satheeshSAM21/put-fire.git/static/js/453.afc89e57.chunk.js",
+    "static/media/Home.jpg": "/satheeshSAM21/put-fire.git/static/media/Home.53fbebe28fba2040e87b.jpg",
+    "static/media/instagram.png": "/satheeshSAM21/put-fire.git/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/threads.png": "/satheeshSAM21/put-fire.git/static/media/threads.787ae3cad85d253e320f.png",
+    "static/media/whatsapp.png": "/satheeshSAM21/put-fire.git/static/media/whatsapp.c826b0165560636baf0b.png",
+    "static/media/youtube (1).png": "/satheeshSAM21/put-fire.git/static/media/youtube (1).bc069a2b5e1ecdb5e06e.png",
+    "static/media/name.svg": "/satheeshSAM21/put-fire.git/static/media/name.c7f320c05b24779cbabfe2c99f53ca0b.svg",
+    "static/media/logo.svg": "/satheeshSAM21/put-fire.git/static/media/logo.31241bdffe95c88385e32309e0d1858a.svg",
+    "index.html": "/satheeshSAM21/put-fire.git/index.html",
+    "main.c644bd76.css.map": "/satheeshSAM21/put-fire.git/static/css/main.c644bd76.css.map",
+    "main.eccde86f.js.map": "/satheeshSAM21/put-fire.git/static/js/main.eccde86f.js.map",
+    "453.afc89e57.chunk.js.map": "/satheeshSAM21/put-fire.git/static/js/453.afc89e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c644bd76.css",
+    "static/js/main.eccde86f.js"
+  ]
+}
