@@ -34,5 +34,5 @@ html {
 .main-container{
   overflow: auto;
   height: 100vh;
-  max-height:calc(100vh - 100px)
+  max-height:calc(100vh - 50px)
 }
