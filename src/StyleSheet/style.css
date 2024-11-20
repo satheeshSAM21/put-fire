@@ -11,8 +11,12 @@
 body,
 html {
   height: 100%;
+  overflow: hidden;
+  scroll-behavior: smooth;
 }
-
+::-webkit-scrollbar{
+  display: none !important;
+}
 .text-white{
    color: #fff;
 }
@@ -26,4 +30,9 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.main-container{
+  overflow: auto;
+  height: 100vh;
+  max-height:calc(100vh - 100px)
 }

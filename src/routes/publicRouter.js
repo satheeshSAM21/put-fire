@@ -7,8 +7,10 @@ const PublicRouter = () => {
   return (
     <div>
       <Header />
-      <PublicComponent />
-      <Footer />
+      <div className="main-container">
+        <PublicComponent />
+        <Footer />
+      </div>
     </div>
   );
 };
