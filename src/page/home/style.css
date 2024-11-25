@@ -1,0 +1,26 @@
+.home-container {
+  background-image: url("../../images/Home.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+.home-container div{
+  width: 100%;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ top:200px
+
+}
+.home-container div p:first-child{
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.home-container div p:last-child{
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,24 @@
+.footer-container {
+  width: 100%;
+  display: grid;
+  place-self: center;
+  background-color: #37757b;
+  padding: 50px 0px;
+}
+
+.footer {
+  display: grid;
+  place-self: center;
+}
+.media {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.img-style {
+  width: 50px;
+  background-color: #fff;
+  border-radius: 100px;
+ cursor:pointer;
+}
